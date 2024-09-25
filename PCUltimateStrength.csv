@@ -1,4 +1,4 @@
-Volume Fraction,Matrix Material,Fibre Material,Matrix Density (kg/m^3),Matrix Elastic Modulus (MPa),Matrix Poisson's Ratio,Matrix Yield Strength (MPa),Fibre Density (kg/m^3),Fibre Elastic Modulus (MPa),Fibre Poisson Ratio,Strain Rate,Fibre Diameter,Fibre Type,Mesh Size,Ultimate Strength (MPa)
+Volume Fraction,Matrix Material,Fibre Material,Matrix Density (kg/m^3),Matrix Elastic Modulus (MPa),Matrix Poisson's Ratio,Matrix Yield Strength (MPa),Fibre Density (kg/m^3),Fibre Elastic Modulus (MPa),Fibre Poisson Ratio,Strain Rate,Fibre Diameter,Fibre Type,Mesh Size,Composite Ultimate Strength (MPa)
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.1,4.21,1,6,166.9307
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.2,4.21,1,6,167.835
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.3,4.21,1,6,168.0916
