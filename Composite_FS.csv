@@ -1,4 +1,4 @@
-Volume Fraction,Matrix Material,Fibre Material,Matrix Density,Matrix Elastic Modulus,Matrix Poisson's Ratio,Matrix Yield Strength,Fibre Density,Fibre Elastic Modulus,Fibre Poisson Ratio,Strain Rate,Fibre Diameter,Fibre Type,Composite Elastic Modulus
+Volume Fraction,Matrix Type,Fibre Type,Matrix Density,Matrix Elastic Modulus,Matrix Poisson Ratio,Matrix Yield Strength,Fibre Density,Fibre Elastic Modulus,Fibre Poisson Ratio,Strain Rate,Fibre Diameter,Fibre Type,Composite Elastic Modulus
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.1,4.21,1,3151.8658
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.2,4.21,1,3151.8658
 0.05,1,1,1490,2662.557781,0.38,149.590164,1770,220000,0.2,0.3,4.21,1,3151.8657
